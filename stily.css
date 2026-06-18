@@ -1,0 +1,16 @@
+<style>
+@import url('https://fonts.googleapis.com/css2?family=UnifrakturMaguntia&display=swap');
+root{
+    --branco: white;
+    --cor-de-fundo:#121358;
+    --fundo-de-senha:#232F72;
+    --fundo-de-texto:#6EADBC;
+    --borda:#760031;
+    --UnifrakturMaguntia: "UnifrakturMaguntia", cursive;
+}
+*{
+    font-weigt:400;
+}
+body{ 
+    color: var(--branco);
+    background-color: var(--cor-de-fundo);
